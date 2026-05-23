@@ -1,0 +1,10 @@
+# Python virtual environment
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+
+# React dependencies and build files
+frontend/node_modules/
+frontend/build/
+.DS_Store
+
